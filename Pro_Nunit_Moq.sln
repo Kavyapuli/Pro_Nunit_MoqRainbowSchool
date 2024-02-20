@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pro_Nunit_Moq", "Pro_Nunit_Moq\Pro_Nunit_Moq.csproj", "{59125E47-B025-4F3A-B0E8-9FFAA5E93EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{203A12FA-F581-4FAC-B3D6-7449CC376E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59125E47-B025-4F3A-B0E8-9FFAA5E93EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59125E47-B025-4F3A-B0E8-9FFAA5E93EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59125E47-B025-4F3A-B0E8-9FFAA5E93EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59125E47-B025-4F3A-B0E8-9FFAA5E93EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203A12FA-F581-4FAC-B3D6-7449CC376E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203A12FA-F581-4FAC-B3D6-7449CC376E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203A12FA-F581-4FAC-B3D6-7449CC376E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203A12FA-F581-4FAC-B3D6-7449CC376E16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C775F0-05FC-48EA-9B0F-B7A8D77B22D3}
+	EndGlobalSection
+EndGlobal
